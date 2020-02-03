@@ -1,3 +1,4 @@
+
 # BSOD - Toolkit
 Ferramenta para te auxiliar a resolver a tão temida Blue Screen Of Dead!
 
@@ -46,7 +47,7 @@ Esses passos são padrões desenvolvidos por [mim](https://www.nicollasfeitosa.c
 
 Em alguns casos o windows precisa de um reparo offline (sem que esteja funcionando) mais avançado que o CheckDisk!
 
-Quando saber que precisa fazer essa correção? 
+Quando saber se precisa realmente fazer essa correção? 
 Execute a opção 2 (SFC) e se apresentar este erro abaixo você deverá realizar os procedimentos a seguir!
 
 ![Exemplo de erro quando se deve corrigir o windows de forma offline](https://i.imgur.com/qaslD8m.png)
