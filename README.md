@@ -5,8 +5,9 @@ Ferramenta para te auxiliar a resolver a tão temida Blue Screen Of Dead!
 É bem simples! para instalar basta escolher a versão de arquitetura abaixo, baixar o executável e abir!
 
 Clique abaixo para fazer o download do programa!
-[Versão 64bits](https://github.com/nicollasfeitosa/BSOD/raw/master/BSODx64.exe)
-[Versão 32bits](https://github.com/nicollasfeitosa/BSOD/raw/master/BSOD.exe)
+
+ - [Versão 64bits](https://github.com/nicollasfeitosa/BSOD/raw/master/BSODx64.exe)
+ - [Versão 32bits](https://github.com/nicollasfeitosa/BSOD/raw/master/BSOD.exe)
 
 Colocamos como prioridade abrir como administrador pois a maioria dos comandos para restaurar arquivos do windows não funciona sem os privilégios administrativos
 
