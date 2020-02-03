@@ -2,7 +2,7 @@
 Ferramenta para te auxiliar a resolver a tão temida Blue Screen Of Dead!
 
 ## Como instalar?
-É bem simples! para instalar basta escolher a versão de arquitetura abaixo, baixar o executável e abir!
+É bem simples! para instalar basta escolher a versão de arquitetura abaixo, baixar o executável e abrir!
 
 Clique abaixo para fazer o download do programa!
 
