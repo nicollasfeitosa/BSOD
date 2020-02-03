@@ -23,6 +23,7 @@ Colocamos como prioridade abrir como administrador pois a maioria dos comandos p
  5. Habilita o Check Disk antes de inicializar o windows, com reinicialização (CheckDisk /R) 
 
 ## Guia definitivo!
+Como resolver a Tela Azul ou as famosas BSOD's?
 Para resolver as BSODs mais comum utilizamos métodos certificados por MVP's da Microsoft Community.
 
  - Em geral execute os items: 2 e 4.
